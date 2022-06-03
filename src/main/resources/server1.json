@@ -1,0 +1,5 @@
+{
+  "NAME": "testName",
+  "age": 24,
+  "directions": ["dir1", "dir2", "dir3"]
+}
